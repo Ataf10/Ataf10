@@ -1,7 +1,7 @@
 # Hi, I'm Ataf Ali 👋
 
 🎓 Final Year B.Tech IT Student  
-💻 Frontend Developer | MERN Stack | DSA Enthusiast  
+💻 Fullstack Developer | MERN Stack | DSA Enthusiast  
 🌱 Currently learning: TypeScript & System Design  
 🔍 Looking for Frontend Internships
 
